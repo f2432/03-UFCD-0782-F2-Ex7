@@ -1,8 +1,8 @@
 a.out:
-	gcc LetraO.c
+	gcc LetrasOla.c
 
 clean:
-	rm LetraO
+	rm LetrasOla
 
 test: a.out
 	bash test.sh
