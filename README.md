@@ -1,20 +1,20 @@
-# 03 - UFCD-0782 - F2 - Ex6
+# 03 - UFCD-0782 - F2 - Ex7
 Este exercício é escrito em C, será testado com o make e um script bash.
 
 ### O Exercício
-Escreva um programa em C (LetraO.c) para imprimir no terminal a letra O através do
-símbolo #, tal como mostra a saída esperada.  
-` ###`  
-`#   #`  
-`#   #`  
-` ###`  
+Escreva um programa em C (LetrasOla.c) para imprimir no terminal as letras “Ola”
+desenhadas através do símbolo #, tal como mostra a saída esperada a seguir.  
+` ####  #        ##`  
+`#    # #       #  #`  
+`#    # #      ######`  
+` ####  ##### #      #`  
 
 ### Saída Esperada:
    
-` ###`  
-`#   #`  
-`#   #`  
-` ###`   
+` ####  #        ##`  
+`#    # #       #  #`  
+`#    # #      ######`  
+` ####  ##### #      #`   
 
 
 ### Notas
